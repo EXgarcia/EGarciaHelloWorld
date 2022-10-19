@@ -1,0 +1,15 @@
+C:\Users\extur\Documents\leveOne\GitHubChallenge\EGarciaHelloWorld\bin\Debug\net6.0\EGarciaHelloWorld.exe
+C:\Users\extur\Documents\leveOne\GitHubChallenge\EGarciaHelloWorld\bin\Debug\net6.0\EGarciaHelloWorld.deps.json
+C:\Users\extur\Documents\leveOne\GitHubChallenge\EGarciaHelloWorld\bin\Debug\net6.0\EGarciaHelloWorld.runtimeconfig.json
+C:\Users\extur\Documents\leveOne\GitHubChallenge\EGarciaHelloWorld\bin\Debug\net6.0\EGarciaHelloWorld.dll
+C:\Users\extur\Documents\leveOne\GitHubChallenge\EGarciaHelloWorld\bin\Debug\net6.0\EGarciaHelloWorld.pdb
+C:\Users\extur\Documents\leveOne\GitHubChallenge\EGarciaHelloWorld\obj\Debug\net6.0\EGarciaHelloWorld.csproj.AssemblyReference.cache
+C:\Users\extur\Documents\leveOne\GitHubChallenge\EGarciaHelloWorld\obj\Debug\net6.0\EGarciaHelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\extur\Documents\leveOne\GitHubChallenge\EGarciaHelloWorld\obj\Debug\net6.0\EGarciaHelloWorld.AssemblyInfoInputs.cache
+C:\Users\extur\Documents\leveOne\GitHubChallenge\EGarciaHelloWorld\obj\Debug\net6.0\EGarciaHelloWorld.AssemblyInfo.cs
+C:\Users\extur\Documents\leveOne\GitHubChallenge\EGarciaHelloWorld\obj\Debug\net6.0\EGarciaHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\extur\Documents\leveOne\GitHubChallenge\EGarciaHelloWorld\obj\Debug\net6.0\EGarciaHelloWorld.dll
+C:\Users\extur\Documents\leveOne\GitHubChallenge\EGarciaHelloWorld\obj\Debug\net6.0\refint\EGarciaHelloWorld.dll
+C:\Users\extur\Documents\leveOne\GitHubChallenge\EGarciaHelloWorld\obj\Debug\net6.0\EGarciaHelloWorld.pdb
+C:\Users\extur\Documents\leveOne\GitHubChallenge\EGarciaHelloWorld\obj\Debug\net6.0\EGarciaHelloWorld.genruntimeconfig.cache
+C:\Users\extur\Documents\leveOne\GitHubChallenge\EGarciaHelloWorld\obj\Debug\net6.0\ref\EGarciaHelloWorld.dll
