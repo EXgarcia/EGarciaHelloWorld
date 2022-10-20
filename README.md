@@ -3,5 +3,4 @@
 Mini challenge Hello world
 This is a console project that will prompt the user to enter their name.
 
-Review:
-
+Review: Isaiah Ferguson Program works and loops as intended!
